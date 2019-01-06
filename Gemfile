@@ -53,4 +53,4 @@ gem 'pg', '~> 0.11'
 gem 'rails_12factor'
 end
 
-gem 'bootsnap', '~> 1.3', '>= 1.3.2'
+gem 'bootsnap', '>= 1.3.2'
